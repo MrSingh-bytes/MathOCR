@@ -1,0 +1,16 @@
+\mathrm{𝐋𝐨}
+
+
+f^{2 \cdot 2^q + 1}
+
+
+
+\left\{ \left( u - k \right)^{\int_0^1 x^{u - 2k - 1} \left(1 - x\right)^k dx} \circ x \right\}^{-1}
+
+
+
+\left( b - e - \lim_{{t \to 0^+}} \left( \frac{1}{{t^2}} \left\{ F_T \left( (z, z^*) + t(v, v^*) \right) - F_T (z, z^*) - t \left( (v, v^*), (z, z^*) \right) \right\} \right) \right) \cdot (v, v^*)
+
+
+
+\lim_{{a \to 0}} \left[ \sup_{B:r_B \leq a} \left( \frac{1}{{|B|}} \int_B \left( | \left( I - e^{-r_B^2 \cdot L} \right) M \right)^{\frac{1}{2}} \cdot f(x) \, dx \right) \right]^{\frac{1}{2}}
