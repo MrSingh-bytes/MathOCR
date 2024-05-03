@@ -1,0 +1,99 @@
+# Quadratic formula
+<math>
+  <mrow>
+    <mi>x</mi>
+    <mo>=</mo>
+    <mfrac linethickness="0">
+      <mrow>
+        <mo>-</mo>
+        <mi>b</mi>
+        <mo></mo>
+        <msqrt>
+          <msup>
+            <mi>b</mi>
+            <mn>2</mn>
+          </msup>
+          <mo>-</mo>
+          <mn>4</mn>
+          <mi>a</mi>
+          <mi>c</mi>
+        </msqrt>
+      </mrow>
+      <mrow>
+        <mn>2</mn>
+        <mi>a</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
+
+# Pythagorean theorem
+<math>
+  <mrow>
+    <mi>c</mi>
+    <mo>=</mo>
+    <msqrt>
+      <msup>
+        <mi>a</mi>
+        <mn>2</mn>
+      </msup>
+      <mo>+</mo>
+      <msup>
+        <mi>b</mi>
+        <mn>2</mn>
+      </msup>
+    </msqrt>
+  </mrow>
+</math>
+
+
+# Binomial Coefficient
+<math>
+  <mrow>
+    <mfrac linethickness="0">
+      <mrow>
+        <mi>n</mi>
+      </mrow>
+      <mrow>
+        <mi>k</mi>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
+
+
+# Area of a Circle
+<math>
+  <mrow>
+    <mi>A</mi>
+    <mo>=</mo>
+    <mi>&#x03C0;</mi>
+    <msup>
+      <mi>r</mi>
+      <mn>2</mn>
+    </msup>
+  </mrow>
+</math>
+
+
+# Pythagorean trigonometric identity
+<math>
+  <mrow>
+    <msup>
+      <mi>sin</mi>
+      <mn>2</mn>
+    </msup>
+    <mi>&#x03B8;</mi>
+    <mo>+</mo>
+    <msup>
+      <mi>cos</mi>
+      <mn>2</mn>
+    </msup>
+    <mi>&#x03B8;</mi>
+    <mo>=</mo>
+    <mn>1</mn>
+  </mrow>
+</math>
+
+# without space
+<math><mrow><msubsup><mi>P</mi><mi>n</mi><mrow><mo>(</mo><mi>α</mi><mo>,</mo><mi>β</mi><mo>)</mo><mo></mo></mrow></msubsup><mo></mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow></math>
