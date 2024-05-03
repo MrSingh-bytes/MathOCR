@@ -1,0 +1,28 @@
+\mathrm{𝐋𝐨}
+<mi>𝐋𝐨</mi>
+"mi:𝐋𝐨";1;1;1
+
+
+f^{2 \cdot 2^q + 1}
+<msup><mi>f</mi><mrow><mrow><mn>2</mn><mo>⋅</mo><msup><mn>2</mn><mi>q</mi></msup></mrow><mo>+</mo><mn>1</mn></mrow></msup>
+"msup(mi:f,mrow(mrow(mn:2,mo:⋅,msup(mn:2,mi:q)),mo:+,mn:1))";5;3;2
+
+\left( A \cdot \left( f, x \right) \right)^q
+<msup><mrow><mo>(</mo><mrow><mi>A</mi><mo>⁢</mo><mrow><mo>(</mo><mi>f</mi><mo>,</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>)</mo></mrow><mi>q</mi></msup>
+"msup(mrow(mo:(,mrow(mi:A,mo:ivt,mrow(mo:(,mi:f,mo:,,mi:x,mo:))),mo:)),mi:q)";5;1;1
+
+
+
+\left\{ \left( u - k \right)^{\int_0^1 x^{u - 2k - 1} \left(1 - x\right)^k dx} \circ x \right\}^{-1}
+<msup><mrow><mo>{</mo><mrow><mrow><mo>(</mo><mrow><mi>u</mi><mo>-</mo><mi>k</mi></mrow><mo>)</mo></mrow><mo>⁢</mo><mrow><msubsup><mo>∫</mo><mn>0</mn><mn>1</mn></msubsup><mrow><msup><mi>x</mi><mrow><mi>u</mi><mo>-</mo><mrow><mn>2</mn><mo>⁢</mo><mi>k</mi></mrow><mo>-</mo><mn>1</mn></mrow></msup><mo>⁢</mo><mpadded><msup><mrow><mo>(</mo><mrow><mn>1</mn><mo>-</mo><mi>x</mi></mrow><mo>)</mo></mrow><mi>k</mi></msup></mpadded><mo>⁢</mo><mrow><mo>��</mo><mi>x</mi></mrow></mrow></mrow></mrow><mo>}</mo></mrow><mrow><mo>-</mo><mn>1</mn></mrow></msup>
+"msup(mrow(mo:{,mrow(mrow(mo:(,mrow(mi:u,mo:-,mi:k),mo:)),mo:ivt,mrow(msubsup(mo:∫,mn:0,mn:1),mrow(msup(mi:x,mrow(mi:u,mo:-,mrow(mn:2,mo:ivt,mi:k),mo:-,mn:1)),mo:ivt,mpadded(msup(mrow(mo:(,mrow(mn:1,mo:-,mi:x),mo:)),mi:k)),mo:ivt,mrow(mo:𝑑,mi:x)))),mo:}),mrow(mo:-,mn:1))";10;1;1
+
+
+\left( b - e - \lim_{{t \to 0^+}} \left( \frac{1}{{t^2}} \left\{ F_T \left( (z, z^*) + t(v, v^*) \right) - F_T (z, z^*) - t \left( (v, v^*), (z, z^*) \right) \right\} \right) \right) \cdot (v, v^*)
+"mrow(mi:,mo:=,mrow(mrow(mo:(,mrow(mi:b,mo:-,mi:e,mo:-,mrow(munder(mo:lim,mrow(mi:t,mo:↓,mn:0)),mo:fap,mrow(mrow(mn:1,mo:/,msup(mi:t,mn:2)),mo:ivt,mrow(mo:{,mrow(mrow(msub(mi:F,mi:T),mo:ivt,mrow(mo:(,mrow(mrow(mo:(,mi:z,mo:,,msup(mi:z,mo:*),mo:)),mo:+,mrow(mi:t,mo:ivt,mrow(mo:(,mi:v,mo:,,msup(mi:v,mo:*),mo:)))),mo:))),mo:-,mrow(msub(mi:F,mi:T),mo:ivt,mrow(mo:(,mi:z,mo:,,msup(mi:z,mo:*),mo:))),mo:-,mrow(mi:t,mo:ivt,mrow(mo:(,mrow(mo:(,mi:v,mo:,,msup(mi:v,mo:*),mo:)),mo:,,mrow(mo:(,mi:z,mo:,,msup(mi:z,mo:*),mo:)),mo:)))),mo:})))),mo:)),mo:ivt,mrow(mo:(,mi:v,mo:,,msup(mi:v,mo:*),mo:))))";15;1;1
+
+
+
+\lim_{{a \to 0}} \left[ \sup_{B:r_B \leq a} \left( \frac{1}{{|B|}} \int_B \left( | \left( I - e^{-r_B^2 \cdot L} \right) M \right)^{\frac{1}{2}} \cdot f(x) \, dx \right) \right]^{\frac{1}{2}}
+<mrow><mrow><mi></mi><mo>=</mo><mrow><munder><mo>lim</mo><mrow><mi>a</mi><mo>→</mo><mn>0</mn></mrow></munder><mo>⁡</mo><mrow><mo>[</mo><mrow><munder><mo>sup</mo><mrow><mi>B</mi><mo>:</mo><mrow><msub><mi>r</mi><mi>B</mi></msub><mo>≤</mo><mi>a</mi></mrow></mrow></munder><mo>⁡</mo><msup><mrow><mo>(</mo><mrow><mstyle><mfrac><mn>1</mn><mrow><mo>|</mo><mi>B</mi><mo>|</mo></mrow></mfrac></mstyle><mo>⁢</mo><mrow><mstyle><msub><mo>∫</mo><mi>B</mi></msub></mstyle><mrow><mpadded><msup><mrow><mo>|</mo><mrow><msup><mrow><mo>(</mo><mrow><mi>I</mi><mo>-</mo><msup><mi>e</mi><mrow><mo>-</mo><mrow><msubsup><mi>r</mi><mi>B</mi><mn>2</mn></msubsup><mo>⁢</mo><mi>L</mi></mrow></mrow></msup></mrow><mo>)</mo></mrow><mi>M</mi></msup><mo>⁢</mo><mi>f</mi><mo>⁢</mo><mrow><mo>(</mo><mi>x</mi><mo>)</mo></mrow></mrow><mo>|</mo></mrow><mn>2</mn></msup></mpadded><mo>⁢</mo><mrow><mo>𝑑</mo><mi>x</mi></mrow></mrow></mrow></mrow><mo>)</mo></mrow><mrow><mn>1</mn><mo>/</mo><mn>2</mn></mrow></msup></mrow><mo>]</mo></mrow></mrow></mrow><mo>,</mo></mrow>
+"mrow(mrow(mi:,mo:=,mrow(munder(mo:lim,mrow(mi:a,mo:→,mn:0)),mo:fap,mrow(mo:[,mrow(munder(mo:sup,mrow(mi:B,mo::,mrow(msub(mi:r,mi:B),mo:≤,mi:a))),mo:fap,msup(mrow(mo:(,mrow(mstyle(mfrac(mn:1,mrow(mo:|,mi:B,mo:|))),mo:ivt,mrow(mstyle(msub(mo:∫,mi:B)),mrow(mpadded(msup(mrow(mo:|,mrow(msup(mrow(mo:(,mrow(mi:I,mo:-,msup(mi:e,mrow(mo:-,mrow(msubsup(mi:r,mi:B,mn:2),mo:ivt,mi:L)))),mo:)),mi:M),mo:ivt,mi:f,mo:ivt,mrow(mo:(,mi:x,mo:))),mo:|),mn:2)),mo:ivt,mrow(mo:𝑑,mi:x)))),mo:)),mrow(mn:1,mo:/,mn:2))),mo:]))),mo:,)";22;1;1

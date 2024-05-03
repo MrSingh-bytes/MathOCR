@@ -1,0 +1,6 @@
+ zbmath_ref; zbmath_can_lucas
+ \mathrm{𝐋𝐨}; \mathrm{LO}
+ f^{2 \cdot 2^q + 1}; f^{2}\cdot2^{q}+1
+ \left\{ \left( u - k \right)^{\int_0^1 x^{u - 2k - 1} \left(1 - x\right)^k dx} \circ x \right\}^{-1}; \left\{(U-k)\int_{0}^{1}x^{u-2k-1}(1-x)^{k}d x\,\circ\,X\right\}-1
+ \left( b - e - \lim_{{t \to 0^+}} \left( \frac{1}{{t^2}} \left\{ F_T \left( (z, z^*) + t(v, v^*) \right) - F_T (z, z^*) - t \left( (v, v^*), (z, z^*) \right) \right\} \right) \right) \cdot (v, v^*); \left(b-\mathrm{e}-\operatorname*{lim}_{t\rightarrow0^{+}}\left(\frac1t\dot{\prime}\left(F_{T}((Z,Z^{*})+t(V,V^{*})\right)-F_{T}(Z,Z^{*})-t((V,V^{*}),(Z,Z^{*})\right)\right)\right)\cdot\cdot\cdot(V,V^{*})
+ \lim_{{a \to 0}} \left[ \sup_{B:r_B \leq a} \left( \frac{1}{{|B|}} \int_B \left( | \left( I - e^{-r_B^2 \cdot L} \right) M \right)^{\frac{1}{2}} \cdot f(x) \, dx \right) \right]^{\frac{1}{2}}; \left|\frac{|{\uparrow}\Pi}{\partial\to0}\right|_{B:r_{B}\,\leq\varnothing}\left(\frac{1}{|B|}\right)_{B}\left(|\left(l-\Theta^{-r_{B}^{2}\cdot L}\right)M\right)^{\frac{1}{2}}\cdot f(X)\,Q X\right)\right|^{\frac{1}{2}}
