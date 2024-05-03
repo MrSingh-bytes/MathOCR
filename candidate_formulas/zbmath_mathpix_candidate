@@ -1,0 +1,13 @@
+\text { Lo }
+
+
+f^2 \cdot 2^q+1
+
+
+\left\{(u-k)^{\int_0^1 x^{u-2 k-1}(1-x)^k d x} \circ x\right\}^{-1}
+
+
+\left(b-e-\lim _{t \rightarrow 0^{+}}\left(\frac{1}{t^2}\left\{F_T\left(\left(z, z^*\right)+t\left(v, v^*\right)\right)-F_T\left(z, z^*\right)-t\left(\left(v, v^*\right),\left(z, z^*\right)\right)\right\}\right)\right) \cdot\left(v, v^*\right)
+
+
+\lim _{a \rightarrow 0}\left[\sup _{B: r_B \leq a}\left(\frac{1}{|B|} \int_B\left(\mid\left(I-e^{-r_B^2 \cdot L}\right) M\right)^{\frac{1}{2}} \cdot f(x) d x\right)\right]^{\frac{1}{2}}
